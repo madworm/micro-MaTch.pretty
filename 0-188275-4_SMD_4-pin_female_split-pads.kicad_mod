@@ -1,5 +1,4 @@
 (module 0-188275-4_SMD_4-pin_female_split-pads (layer F.Cu) (tedit 53CFCFB5)
-  (descr http://www2.mouser.com/Search/Refine.aspx?Keyword=1-188275-4)
   (tags "micro-MaTch, SMD, 4-pin, female")
   (fp_text reference P? (at 0 -5.1) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
