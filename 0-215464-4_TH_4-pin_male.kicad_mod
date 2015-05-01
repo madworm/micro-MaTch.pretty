@@ -1,4 +1,5 @@
 (module 0-215464-4_TH_4-pin_male (layer F.Cu) (tedit 53CFF936)
+  (descr ./Docs/ENG_CD_215464_N_215464-c_drw.pdf)
   (tags "micro-MaTch, TH, 4-pin, male")
   (fp_text reference P? (at 0 -3.8) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
